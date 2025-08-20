@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Raphael Mharcus G. San Juan
 
 🎓 **BS Computer Engineering - 2nd Year Student**  
-💻 **Entry-level Developer (Level C)**  
+💻 **Entry-level Developer**  
 ⚡ More focused on **Backend Development** but exploring **Fullstack** step by step.  
 
 ---
@@ -30,7 +30,7 @@
 
 ## 📌 About Me
 
-- 🌱 Currently learning **Spring Boot + Security**, **JavaFX**, and **SQL**.  
+- 🌱 Currently learning **Spring Boot + Security**, **DevOps**, and **Creating huge website**.  
 - 🎯 Goal: Improve my backend skills and grow into a **Fullstack Developer**.  
 - 🧑‍💻 Passionate about solving problems and building simple but useful projects.  
 
