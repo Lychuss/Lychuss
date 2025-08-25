@@ -25,8 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://img.icons8.com/color/48/scene-builder.png" height="40" alt="SceneBuilder" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/SceneBuilderLogo.png" height="40" alt="SceneBuilder" />
 </p>
+
 
 
 ---
