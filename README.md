@@ -29,7 +29,7 @@
 
 ## 📌 About Me
 
-- 🌱 Currently learning **Spring Boot + Security**, **DevOps**, and **Creating huge website**.  
+- 🌱 Currently learning **Express, **Node, **Spring Boot + Security**, **DevOps**, and **Creating huge website**.  
 - 🎯 Goal: Improve my backend skills and grow into a **Fullstack Developer**.  
 - 🧑‍💻 Passionate about solving problems and building simple but useful projects.  
 
