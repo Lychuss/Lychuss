@@ -5,7 +5,7 @@
 ⚡ Exploring Node.js, Express, React, Spring Boot, and Deployments step by step.
 
 <p align="center">
-  <img src="assets/banner.png" alt="Coding Pixel Banner" width="800" />
+  <img src="assets/banner.svg" alt="Coding Pixel Banner" width="800" />
 </p>
 
 
