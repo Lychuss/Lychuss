@@ -19,7 +19,7 @@
 ⚡ Motto: “Step by step, from backend roots to fullstack growth.”
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RaphaelMharcus&show_icons=true&theme=radical" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelMharcus&layout=compact&theme=radical" height="160" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&theme=radical" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&layout=compact&theme=radical" height="160" /> </p>
 
 ✨ Always open for collaborations and building cool projects!
 - 🎯 Goal: Improve my backend skills and grow into a **Fullstack Developer**.  
