@@ -1,6 +1,7 @@
-<div align="center">
+
 
 # 💫 About Me:
+I am Raphael Mharcus G. San Juan 
 I am a 2nd BS Computer Engineering <br>
 I am currently learning Full Stack Development <br>
 Focusing my skills in PERN <br>
@@ -43,7 +44,5 @@ Focusing my skills in PERN <br>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Lychuss&icon=2&color=0)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
