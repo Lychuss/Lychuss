@@ -37,8 +37,10 @@ Focusing my skills in PERN <br>
   <!-- GitHub Stats (Commits Grade Only) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Lychuss&hide=prs,issues,contribs,stars&show_icons=false&count_private=true&custom_title=Total%20Commits%20Grade&theme=tokyonight" height="150"/>
 
-  <!-- Top Languages (with org repos included if self-hosted) -->
-  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=Lychuss&include_orgs=true&layout=compact&langs_count=5&theme=tokyonight" height="150"/>
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&langs_count=5&hide=python,php,c%2B%2B&layout=compact&theme=tokyonight)
+
 
   <!-- Highlight frameworks as if part of Top Languages -->
   <br>
