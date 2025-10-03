@@ -28,20 +28,19 @@ Learning Full Stack Development — focusing on **PERN** (Postgres, Express, Rea
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 <div align="center">
 
-  <!-- Main GitHub stats (commits + repos; tuned to look fuller) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&custom_title=📈%20GitHub%20Overview&theme=tokyonight"
-    height="160"
-  />
+  <!-- GitHub Stats (Commits Grade Only) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lychuss&hide=prs,issues,contribs,stars&show_icons=false&count_private=true&custom_title=Total%20Commits%20Grade&theme=tokyonight" height="150"/>
 
-  <!-- Top Languages (compact, percentage) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&layout=compact&langs_count=6&hide=html,css&card_width=340&theme=tokyonight"
-    height="160"
-  />
+  <!-- Top Languages -->
+  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=Lychuss&include_orgs=true&layout=compact&langs_count=5&theme=tokyonight" height="150"/>
+
+  <!-- Cosmetic badges to show React & Spring -->
+  <br>
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 
