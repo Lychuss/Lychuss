@@ -31,12 +31,12 @@ Focusing my skills in PERN <br>
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-  <!-- Commits grade -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Lychuss&theme=vue-dark&hide_border=false&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&custom_title=Total%20Commits%20Grade" height="150" />
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&theme=vue-dark&hide_border=false&layout=compact" height="150" />
+  <!-- GitHub Stats (simplified, only commits visible) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide=prs,issues,contribs,stars&show_icons=false&count_private=true&custom_title=Total%20Commits%20Grade" height="150"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=5&hide_title=false&card_width=320" height="150"/>
 
 </div>
 
