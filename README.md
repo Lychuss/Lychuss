@@ -1,7 +1,5 @@
-
-
 # 💫 About Me:
-I am Raphael Mharcus G. San Juan 
+I am Raphael Mharcus G. San Juan  
 I am a 2nd BS Computer Engineering <br>
 I am currently learning Full Stack Development <br>
 Focusing my skills in PERN <br>
@@ -32,17 +30,19 @@ Focusing my skills in PERN <br>
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lychuss&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lychuss&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  <!-- Commits grade -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lychuss&theme=vue-dark&hide_border=false&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&custom_title=Total%20Commits%20Grade" height="150" />
 
----
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&theme=vue-dark&hide_border=false&layout=compact" height="150" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lychuss&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Lychuss&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
