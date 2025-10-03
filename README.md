@@ -34,9 +34,11 @@ Focusing my skills in PERN <br>
 
 ---
 
+## 📊 GitHub Overview
 
-
-
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![Commits Grade](https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&theme=tokyonight&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&langs_count=5&hide=python,php,c%2B%2B&layout=compact&theme=tokyonight) |
 
   <!-- Highlight frameworks as if part of Top Languages -->
   <br>
