@@ -26,10 +26,9 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 ---
 # 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&theme=tokyonight&count_private=true)
-
----
+![Lychuss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&count_private=true&theme=tokyonight)
 
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&langs_count=5&layout=compact&theme=tokyonight)
+
