@@ -24,15 +24,12 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+# 📊 GitHub Stats
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Lychuss&theme=synthwave&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Lychuss&theme=synthwave&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
-## 🔝 Top Languages
-![](https://github-readme-stats-34mbzkuyn.vercel.app/api/top-langs/?username=Lychuss&layout=compact&theme=synthwave&count_private=true)
+## 🏆 Top Languages
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&langs_count=5&layout=compact&theme=tokyonight)
