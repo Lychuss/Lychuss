@@ -33,6 +33,6 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 ---
 
 ## 🔝 Top Languages
-![](https://github-readme-stats-34mbzkuyn.vercel.app/api/top-langs/?username=Lychuss&langs_count=5&hide=python,php,c%2B%2B&layout=compact&theme=synthwave)
+![](https://github-readme-stats-34mbzkuyn.vercel.app/api/top-langs/?username=Lychuss&layout=compact&theme=synthwave&count_private=true)
 
 ---
