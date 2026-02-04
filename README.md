@@ -33,13 +33,6 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 ---
 
 ## 🔝 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&layout=compact&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&langs_count=5&hide=python,php,c%2B%2B&layout=compact&theme=tokyonight) 
 
 ---
-
-## 📈 Profile Visitors
-[![](https://visitcount.itsvg.in/api?id=Lychuss&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-☕ *“Fueled by coffee, driven by code.”*
