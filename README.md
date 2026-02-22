@@ -5,11 +5,6 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 
 ---
 
-## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raphaelsanjuan6@gmail.com)
-
----
-
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -22,9 +17,4 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-# 📊 GitHub Stats
-
-![Lychuss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lychuss&show_icons=true&count_private=true&theme=tokyonight)
 
