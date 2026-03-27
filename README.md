@@ -19,5 +19,4 @@ I enjoy building both **frontend** and **backend** projects, and I’m always le
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss)](https://github.com/Lychuss/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lychuss&theme=tokyonight)
