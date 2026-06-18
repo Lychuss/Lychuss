@@ -1,4 +1,4 @@
-# ☕ Raphael Mharcus G. C – Coffee & Code
+# ☕ Raphael Mharcus G. C 
 
 Hi there! I’m a 2nd Year BS Computer Engineering student at Southern Luzon State University.  
 I enjoy building both **frontend** and **backend** projects, and I’m always learning new technologies. 🌱
